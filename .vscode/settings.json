@@ -1,0 +1,7 @@
+{
+    "markdownlint.run": "onSave",
+    "write-good.only-lint-on-save": true,
+    "write-good.languages": ["markdown"],
+    "textlint.languages": ["markdown"],
+
+}

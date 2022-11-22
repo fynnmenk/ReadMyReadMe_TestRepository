@@ -1,0 +1,9 @@
+{
+  "devDependencies": {
+    "markdownlint": "^0.26.2",
+    "markdownlint-cli2": "^0.5.1",
+    "textlint": "^12.2.3"
+  },
+  "dependencies": {
+  }
+}
